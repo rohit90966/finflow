@@ -1,0 +1,28 @@
+admin: admin@test.com / AdminPass123!
+user1: user1@test.com / User1Pass123!
+user2: user2@test.com / User2Pass123!
+user3: shitoler64@gmail.com/ rohit
+user4: shitolediksha1@gmail.com/ diksha
+user5: aryanshivatare35@gmail.com/ aryan
+
+Admin
+
+admin@test.com
+Account numbers: 900000001, 900000002
+User 1
+
+user1@test.com
+Account numbers: 100000001, 100000002
+User 2
+
+user2@test.com
+Account numbers: 200000001, 200000002
+
+shitoler64@gmail.co
+Account numbers:100966
+
+shitolediksha1@gmail.com
+Account numbers:1001
+
+aryanshivatare35@gmail.com
+Account numbers:10035
